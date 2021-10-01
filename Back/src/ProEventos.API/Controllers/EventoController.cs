@@ -26,7 +26,7 @@ namespace ProEventos.API.Controllers
                 EventoId = 2,
                 Tema = "Angular 11 e .Net",
                 Local = "Gama",
-                Lote = "2º Lote",
+                Lote = "2º Lotes",
                 QtdPessoas = 250,
                 DataEvento = DateTime.Now.AddDays(2).ToString(),
                 ImageURL  = "foto.jpg"
